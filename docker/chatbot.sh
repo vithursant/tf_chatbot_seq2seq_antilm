@@ -1,0 +1,1 @@
+python3 -u main.py --mode train --model_name lyrics_ptt
